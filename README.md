@@ -10,5 +10,3 @@ Contents of this repository:
 6. vocabulary.pkl : complete vocabulary of the synopsis
 7. inverted_index.pkl : 2.1.1
 8. inverted_index_2.p : 2.2.1
-
-HTMLs and tsv files were not uploaded because of their large sizes.
